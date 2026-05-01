@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/ASHUMANZOR">
-  <img src="https://img.shields.io/badge/GitHub-ashumbit26-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ASHUMANZOR-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="AQUI_TU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-Ashly%20Umanzor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -194,15 +194,15 @@ Applied research project focused on identifying causes and improvement opportuni
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashumbit26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ASHUMANZOR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashumbit26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUMANZOR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ashumbit26&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=E5E7EB" />
+<img src="https://streak-stats.demolab.com?user=ASHUMANZOR&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=E5E7EB" />
 
 </div>
 
@@ -212,7 +212,7 @@ Applied research project focused on identifying causes and improvement opportuni
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashumbit26&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ASHUMANZOR&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
