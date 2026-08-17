@@ -1,236 +1,264 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,35:1F2937,70:7C3AED,100:22D3EE&text=Ashly%20Umanzor&fontSize=40&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Systems%20Engineer%20|%20Data%20Science%20Enthusiast&descAlignY=58&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:111827,72:4C1D95,100:06B6D4&text=ASHLY%20UMANZOR&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=37&desc=Systems%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Data%20Science&descAlignY=57&descSize=15"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+clarity+from+complex+data.;SQL+%E2%86%92+Python+%E2%86%92+Analytics+%E2%86%92+Decisions.;Automating+what+should+never+be+manual.;Learning%2C+engineering%2C+improving." alt="Typing SVG"/>
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/ASHUMANZOR">
-  <img src="https://img.shields.io/badge/GitHub-ASHUMANZOR-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ASHUMANZOR-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 <a href="AQUI_TU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Ashly%20Umanzor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ashly%20Umanzor-0B1120?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
 </a>
 <a href="mailto:AQUI_TU_CORREO">
-  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-0B1120?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
 </a>
 
 </div>
 
----
+<br/>
 
-<div align="center"> 
+01 / profile
 
-#### Turning data into insight, structure and smarter decisions ᝰ🖋️
+class AshlyUmanzor:
+    profession = "Systems Engineer"
+    role = "Data Analyst"
+    location = "Honduras"
 
-</div>
+    focus = [
+        "Data Analysis",
+        "Business Intelligence",
+        "Data Quality",
+        "Automation",
+        "Data Science",
+    ]
 
----
+    def build(self):
+        return "clean data → clear logic → reliable decisions"
 
-### 🌌 About Me
+I work at the intersection of data, systems and business logic.
 
-```yaml
-Name: Ashly Umanzor
-Role: Data Analyst
-Profession: Systems Engineer
-Location: Honduras
+My day-to-day work revolves around extracting, validating and transforming operational data with SQL, Oracle, SQL Server and Python, then turning it into dashboards, controls and automated reporting that make processes easier to understand and manage.
 
-Focus:
-  → Data Analysis
-  → Data Quality
-  → Business Intelligence
-  → Process Evaluation
-  → Reporting Automation
-  → Data Science
+I am currently deepening my path into Data Science, Machine Learning and advanced analytics.
 
-Interests:
-  → SQL Analytics
-  → Machine Learning
-  → Deep Learning
-  → Data Visualization
-  → Process Optimization
-```
-
----
-
-### 🪐 Professional Profile
-
-I am a Systems Engineer with experience in data analysis, process validation and analytical automation in corporate environments.  
-My work is focused on SQL-based analysis, reporting automation, dashboard development and data quality control using tools such as **Oracle, SQL Server, Python and Power BI**.
-
-I am especially interested in **applied Data Science**, **advanced analytics**, **data-driven decision-making**, and the design of solutions that improve operational processes through data.
-
----
-
-### ☄️ Core Areas
+02 / stack
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<td width="32%" align="center">
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode&theme=dark" />
 
-#### 📊 Analytics
-Data analysis  
-KPIs and monitoring  
-Exploratory analysis  
-Business insights  
+<br/><br/>
 
-</td>
-<td width="33%" align="center">
-
-#### ⚙️ Automation
-Automated reports  
-Process optimization  
-SQL control queries  
-Python workflows  
-
-</td>
-<td width="34%" align="center">
-
-#### 🧠 Data Science
-Machine Learning  
-Deep Learning  
-Image classification  
-Applied statistics  
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=F8FAFC"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-111827?style=for-the-badge&logo=oracle&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=4ADE80"/>
 
 </div>
 
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
-<br><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,powerbi" />
-
-</div>
-
-<div align="center">
-
-### Languages, Databases & Tools
-
-<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=database&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-1F2937?style=for-the-badge&logo=oracle&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Oracle-1F2937?style=for-the-badge&logo=oracle&logoColor=EF4444"/>
-<img src="https://img.shields.io/badge/SQL%20Server-1F2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Power%20BI-1F2937?style=for-the-badge&logo=powerbi&logoColor=FACC15"/>
-<img src="https://img.shields.io/badge/Excel-1F2937?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-1F2937?style=for-the-badge&logo=databricks&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/ETL-1F2937?style=for-the-badge&logo=apacheairflow&logoColor=7C3AED"/>
-
-</div>
-
----
-
-### 🚀 Featured Projects
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-#### 🧠 Convolutional Neural Network
-CNN developed in Python for animal image classification.  
-Built as an academic project focused on image recognition and supervised learning.
+Analytics
 
-**Technologies:** Python · Deep Learning · Computer Vision
+Exploratory analysis
 
-<a href="AQUI_LINK_DE_TU_REPO_CNN">
-  <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+KPI design
 
-</td>
-<td width="50%">
+Data validation
 
-#### 📈 Billing Analytics & Data Quality
-Analytical validations and control processes for billing data using Oracle and SQL Server, with focus on consistency checks, segmentation and operational monitoring.
+Operational monitoring
 
-**Technologies:** SQL · Oracle · SQL Server · Power BI
+Business insights
+
+Data quality controls
 
 </td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="50%">
+Engineering
 
-#### ⚙️ Reporting Automation
-Automation of reports and monitoring processes using Python, SQL and Power BI to reduce manual work and improve operational visibility.
+SQL automation
 
-**Technologies:** Python · SQL · Power BI · Automation
+Python workflows
+
+Reporting pipelines
+
+Process controls
+
+Data transformation
+
+Dashboard backends
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-#### 💡 Public Lighting Analysis
-Applied research project focused on identifying causes and improvement opportunities in public lighting billing goals through analytical evaluation of consumption and billing behavior.
+Data Science
 
-**Focus:** Analytics · Metrics · Process Improvement
+Machine Learning
+
+Deep Learning
+
+Applied statistics
+
+Computer Vision
+
+Classification
+
+Model evaluation
 
 </td>
 </tr>
 </table>
 
----
-
-### 📚 Learning Journey
-
-- MITx MicroMasters Program in Statistics and Data Science
-- Applied Machine Learning
-- Deep Learning fundamentals
-- Data analysis for business decision-making
-- English for academic and professional growth
-
----
-
-### 📊 GitHub Insights
+03 / how I think
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ASHUMANZOR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUMANZOR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
+RAW DATA
+   │
+   ▼
+VALIDATE
+   │
+   ▼
+UNDERSTAND
+   │
+   ▼
+AUTOMATE
+   │
+   ▼
+VISUALIZE
+   │
+   ▼
+DECIDE
 
 </div>
 
+I like systems where the logic is visible, the data is trustworthy and the result is useful.
+
+04 / selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+◈ Billing Analytics & Data Quality
+
+Analytical controls for operational billing data, focused on consistency, anomalies, segmentation and monitoring.
+
+Stack
+Oracle SQL Server SQL Power BI
+
+</td>
+
+<td width="50%" valign="top">
+
+◈ Reporting Automation
+
+Automated reporting and monitoring workflows designed to reduce repetitive manual work and improve visibility.
+
+Stack
+Python SQL Pandas Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+◈ CNN Image Classifier
+
+Convolutional Neural Network developed in Python for supervised image classification.
+
+Stack
+Python Deep Learning Computer Vision
+
+<br/>
+
+<a href="AQUI_LINK_DE_TU_REPO_CNN">
+<img src="https://img.shields.io/badge/View%20Project-4C1D95?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+◈ Energy Analytics
+
+Applied analysis of consumption and billing behavior to identify operational patterns and improvement opportunities.
+
+Focus
+Analytics Metrics Process Improvement
+
+</td>
+</tr>
+</table>
+
+05 / current trajectory
+
+learning:
+  data_science:
+    - Machine Learning
+    - Deep Learning
+    - Statistical Modeling
+    - Advanced Analytics
+
+  engineering:
+    - Data Pipelines
+    - Automation
+    - Data Architecture
+
+  professional:
+    - Business Intelligence
+    - Technical English
+    - Research-oriented Data Science
+
+06 / github signal
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ASHUMANZOR&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=E5E7EB" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ASHUMANZOR&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=22D3EE"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUMANZOR&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1"/>
 
 </div>
 
----
-
-### 🏆 Achievements
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ASHUMANZOR&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASHUMANZOR&bg_color=020617&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&area_color=4C1D95&hide_border=true"/>
 
 </div>
 
----
-
-### 🌠 Philosophy
+07 / connect
 
 <div align="center">
 
-> “Behind every good decision, there is clean data, clear logic and meaningful analysis.”
+systems online · data flowing · always learning
 
-</div>
+<br/>
 
----
+<a href="https://github.com/ASHUMANZOR">
+  <img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
+<a href="AQUI_TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+</a>
+<a href="mailto:AQUI_TU_CORREO">
+  <img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:7C3AED,100:0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,45:4C1D95,100:020617"/>
 
 </div>
